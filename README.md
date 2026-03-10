@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://portfolio-pi-flame-12.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-00FF41?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://codeblind007.dev" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-Visit%20Now-00FF41?style=for-the-badge&labelColor=0D1117" />
   </a>
 </p>
 
